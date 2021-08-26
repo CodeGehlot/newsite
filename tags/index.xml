@@ -1,0 +1,56 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - KikaDevelop</title>
+        <link>http://KikaDevelop.com/tags/</link>
+        <description>Tags - Tag - KikaDevelop</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://KikaDevelop.com/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>configuration</title>
+    <link>http://KikaDevelop.com/tags/configuration/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://KikaDevelop.com/tags/configuration/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>installation</title>
+    <link>http://KikaDevelop.com/tags/installation/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://KikaDevelop.com/tags/installation/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>content</title>
+    <link>http://KikaDevelop.com/tags/content/</link>
+    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://KikaDevelop.com/tags/content/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Markdown</title>
+    <link>http://KikaDevelop.com/tags/markdown/</link>
+    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://KikaDevelop.com/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>shortcodes</title>
+    <link>http://KikaDevelop.com/tags/shortcodes/</link>
+    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://KikaDevelop.com/tags/shortcodes/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>HTML</title>
+    <link>http://KikaDevelop.com/tags/html/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://KikaDevelop.com/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>emoji</title>
+    <link>http://KikaDevelop.com/tags/emoji/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://KikaDevelop.com/tags/emoji/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
