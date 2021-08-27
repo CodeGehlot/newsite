@@ -2,24 +2,19 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://KikaDevelop.com/posts/theme-documentation-built-in-shortcodes/</loc><lastmod>2020-03-04T16:29:41&#43;08:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/posts/theme-documentation-extended-shortcodes/</loc><lastmod>2020-03-03T16:29:41&#43;08:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/posts/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/contact/</loc><lastmod>2021-08-26T19:17:33&#43;05:30</lastmod></url><url>
+            <loc>http://KikaDevelop.com/posts/how-i-created-my-first-website/</loc><lastmod>2021-08-27T10:55:00&#43;08:00</lastmod></url><url>
             <loc>http://KikaDevelop.com/posts/first_post/</loc><lastmod>2021-08-26T19:12:19&#43;05:30</lastmod></url><url>
-            <loc>http://KikaDevelop.com/</loc><lastmod>2021-08-26T19:12:19&#43;05:30</lastmod></url><url>
-            <loc>http://KikaDevelop.com/posts/</loc><lastmod>2021-08-26T19:12:19&#43;05:30</lastmod></url><url>
+            <loc>http://KikaDevelop.com/categories/</loc><lastmod>2021-08-27T10:55:00&#43;08:00</lastmod></url><url>
+            <loc>http://KikaDevelop.com/tags/free-website/</loc><lastmod>2021-08-27T10:55:00&#43;08:00</lastmod></url><url>
+            <loc>http://KikaDevelop.com/tags/git/</loc><lastmod>2021-08-27T10:55:00&#43;08:00</lastmod></url><url>
+            <loc>http://KikaDevelop.com/tags/github/</loc><lastmod>2021-08-27T10:55:00&#43;08:00</lastmod></url><url>
+            <loc>http://KikaDevelop.com/tags/hugo/</loc><lastmod>2021-08-27T10:55:00&#43;08:00</lastmod></url><url>
+            <loc>http://KikaDevelop.com/</loc><lastmod>2021-08-27T10:55:00&#43;08:00</lastmod></url><url>
+            <loc>http://KikaDevelop.com/tags/netlify/</loc><lastmod>2021-08-27T10:55:00&#43;08:00</lastmod></url><url>
+            <loc>http://KikaDevelop.com/posts/</loc><lastmod>2021-08-27T10:55:00&#43;08:00</lastmod></url><url>
+            <loc>http://KikaDevelop.com/tags/</loc><lastmod>2021-08-27T10:55:00&#43;08:00</lastmod></url><url>
+            <loc>http://KikaDevelop.com/categories/website-development/</loc><lastmod>2021-08-27T10:55:00&#43;08:00</lastmod></url><url>
+            <loc>http://KikaDevelop.com/contact/</loc><lastmod>2021-08-26T19:17:33&#43;05:30</lastmod></url><url>
             <loc>http://KikaDevelop.com/who-am-i/</loc><lastmod>2021-08-26T11:04:49&#43;08:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/categories/</loc><lastmod>2020-12-15T11:21:43&#43;03:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/tags/configuration/</loc><lastmod>2020-12-15T11:21:43&#43;03:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/categories/documentation/</loc><lastmod>2020-12-15T11:21:43&#43;03:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/tags/installation/</loc><lastmod>2020-12-15T11:21:43&#43;03:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/tags/</loc><lastmod>2020-12-15T11:21:43&#43;03:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/posts/theme-documentation-basics/</loc><lastmod>2020-12-15T11:21:43&#43;03:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/tags/content/</loc><lastmod>2020-03-15T11:26:13&#43;08:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/tags/markdown/</loc><lastmod>2020-03-15T11:26:13&#43;08:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/posts/theme-documentation-content/</loc><lastmod>2020-03-15T11:26:13&#43;08:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/tags/shortcodes/</loc><lastmod>2020-03-04T16:29:41&#43;08:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>http://KikaDevelop.com/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod></url></urlset>
+            <loc>http://KikaDevelop.com/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod></url><url>
+            <loc>http://KikaDevelop.com/categories/documentation/</loc></url></urlset>

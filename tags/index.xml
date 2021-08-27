@@ -3,47 +3,40 @@
         <title>Tags - Tag - KikaDevelop</title>
         <link>http://KikaDevelop.com/tags/</link>
         <description>Tags - Tag - KikaDevelop</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://KikaDevelop.com/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>configuration</title>
-    <link>http://KikaDevelop.com/tags/configuration/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 27 Aug 2021 10:55:00 &#43;0800</lastBuildDate><atom:link href="http://KikaDevelop.com/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Free Website</title>
+    <link>http://KikaDevelop.com/tags/free-website/</link>
+    <pubDate>Fri, 27 Aug 2021 10:55:00 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://KikaDevelop.com/tags/configuration/</guid>
+    <guid>http://KikaDevelop.com/tags/free-website/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>installation</title>
-    <link>http://KikaDevelop.com/tags/installation/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <title>GIT</title>
+    <link>http://KikaDevelop.com/tags/git/</link>
+    <pubDate>Fri, 27 Aug 2021 10:55:00 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://KikaDevelop.com/tags/installation/</guid>
+    <guid>http://KikaDevelop.com/tags/git/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>content</title>
-    <link>http://KikaDevelop.com/tags/content/</link>
-    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <title>Github</title>
+    <link>http://KikaDevelop.com/tags/github/</link>
+    <pubDate>Fri, 27 Aug 2021 10:55:00 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://KikaDevelop.com/tags/content/</guid>
+    <guid>http://KikaDevelop.com/tags/github/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Markdown</title>
-    <link>http://KikaDevelop.com/tags/markdown/</link>
-    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <title>HUGO</title>
+    <link>http://KikaDevelop.com/tags/hugo/</link>
+    <pubDate>Fri, 27 Aug 2021 10:55:00 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://KikaDevelop.com/tags/markdown/</guid>
+    <guid>http://KikaDevelop.com/tags/hugo/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>shortcodes</title>
-    <link>http://KikaDevelop.com/tags/shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
+    <title>Netlify</title>
+    <link>http://KikaDevelop.com/tags/netlify/</link>
+    <pubDate>Fri, 27 Aug 2021 10:55:00 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://KikaDevelop.com/tags/shortcodes/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>HTML</title>
-    <link>http://KikaDevelop.com/tags/html/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>http://KikaDevelop.com/tags/html/</guid>
+    <guid>http://KikaDevelop.com/tags/netlify/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
