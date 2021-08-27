@@ -4,14 +4,15 @@
         <link>http://KikaDevelop.com/tags/github/</link>
         <description>Github - Tag - KikaDevelop</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 27 Aug 2021 10:55:00 &#43;0800</lastBuildDate><atom:link href="http://KikaDevelop.com/tags/github/" rel="self" type="application/rss+xml" /><item>
-    <title>How I created my first website with free server and domain.</title>
+    <title>How I Created My First Website With Free Server And Domain.</title>
     <link>http://KikaDevelop.com/posts/how-i-created-my-first-website/</link>
     <pubDate>Fri, 27 Aug 2021 10:55:00 &#43;0800</pubDate>
-    <author>Author</author>
+    <author>Kuldeep Gehlot</author>
     <guid>http://KikaDevelop.com/posts/how-i-created-my-first-website/</guid>
-    <description><![CDATA[<p>This article offers a guide and step by step procedure on how I created my own personal website free with free server 
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article offers a guide and step by step procedure on how I created my own personal website free with free server 
 and domain name using <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer">HUGO</a>, <a href="https://git-scm.com/" target="_blank" rel="noopener noreffer">Git</a>, 
-<a href="https://github.com/" target="_blank" rel="noopener noreffer">Github</a>, and <a href="https://www.netlify.com/" target="_blank" rel="noopener noreffer">Netlify</a>.
-.</p>]]></description>
+<a href="https://github.com/" target="_blank" rel="noopener noreffer">Github</a>, and <a href="https://www.netlify.com/" target="_blank" rel="noopener noreffer">Netlify</a>.</p>]]></description>
 </item></channel>
 </rss>
