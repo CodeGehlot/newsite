@@ -10,16 +10,9 @@
     <author>Kuldeep Gehlot</author>
     <guid>http://KikaDevelop.com/posts/how-i-created-my-first-website/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article offers a guide and step by step procedure on how I created my own personal website free with free server 
+                <img src="/how-to-create-a-website.png" referrerpolicy="no-referrer">
+            </div><p>This article offers a guide and step by step procedure on how I created my own personal website with free server 
 and domain name using <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer">HUGO</a>, <a href="https://git-scm.com/" target="_blank" rel="noopener noreffer">Git</a>, 
-<a href="https://github.com/" target="_blank" rel="noopener noreffer">Github</a>, and <a href="https://www.netlify.com/" target="_blank" rel="noopener noreffer">Netlify</a>.</p>]]></description>
-</item><item>
-    <title>First_post</title>
-    <link>http://KikaDevelop.com/posts/first_post/</link>
-    <pubDate>Thu, 26 Aug 2021 19:12:19 &#43;0530</pubDate>
-    <author>Author</author>
-    <guid>http://KikaDevelop.com/posts/first_post/</guid>
-    <description><![CDATA[This is my first post after delpoying on netlify. So Excited to post new blogs.]]></description>
+<a href="https://github.com/" target="_blank" rel="noopener noreffer">Github</a> and <a href="https://www.netlify.com/" target="_blank" rel="noopener noreffer">Netlify</a>.</p>]]></description>
 </item></channel>
 </rss>
